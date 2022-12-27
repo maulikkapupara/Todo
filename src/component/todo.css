@@ -1,0 +1,35 @@
+.addu {
+  margin-left: 10px;
+  border-radius: 5px;
+  border-color: rgb(122, 124, 126);
+}
+.closbtn {
+  width: 50px;
+  height: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 15px 0 35px;
+  border-radius: 10px;
+  
+}
+.todolist {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border-radius: 5px;
+  /* align-items: center; */
+}
+#delete{
+    padding: 15px;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+#edit{
+    padding: 15px;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+.remove{
+    border-radius: 10px;
+}
